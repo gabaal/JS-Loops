@@ -1,5 +1,9 @@
 console.log("Log something to check its working");
 
+// for(counter; comparator; increment){
+//do stuff
+//}
+
 // For loops
 for (let i = 0; i < 5; i++) {
   console.log("Iteration", i);
@@ -51,6 +55,7 @@ const favouriteNumbers = [4, 8, 15, 16, 23, 42, Infinity];
 for (let number of favouriteNumbers) {
   console.log(number);
 }
+//Workshop
 
 //For each loop
 
